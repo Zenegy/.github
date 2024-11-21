@@ -1,6 +1,6 @@
 # 🌟 Welcome to Zenegy 🚀
 
-Hey there! 👋 Welcome to Zenegys GitHub.
+Hey there! 👋 Welcome to Zenegy's GitHub.
 
 We’re all about creating amazing financial tools that make managing finances easier for everyone!
 ---
